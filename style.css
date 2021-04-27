@@ -1,0 +1,24 @@
+.bloque{
+    width: 500px;
+    height: 100px;
+    background: orange;
+}
+
+.borde1{ 
+    border: gray solid 10p}
+
+/*pseudo-clases*/
+h1
+a:hover{color: red;
+text-decoration: line-through;
+}
+.paragraph{
+    padding: 01em;
+    background: black;
+    font-size: 20;
+    color: white;
+}
+
+.tittle:hover{
+color: greenyellow;
+}
